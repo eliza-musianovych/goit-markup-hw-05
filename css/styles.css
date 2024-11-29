@@ -478,8 +478,9 @@ border: 1px solid #4d5ae5;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    cursor: pointer;
 }
-.input:checked+.span-checkbox {
+.terms:checked+.span-checkbox {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;;
