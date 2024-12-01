@@ -476,10 +476,10 @@ border: 1px solid #4d5ae5;
     fill: transparent;
     cursor: pointer;
 }
-.input:checked+label>span {
-    background-color: #404bbf;
+.terms:checked + .label > span {
+    background-color: #404BBF;
     border: none;
-    fill: #F4F4FD;;
+    fill: #F4F4FD;
 }
 .user-privacy {
     border-radius: 2px;
